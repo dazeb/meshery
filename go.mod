@@ -12,7 +12,7 @@ replace (
 )
 
 require (
-	cuelang.org/go v0.6.0
+	cuelang.org/go v0.7.0
 	fortio.org/fortio v1.63.2
 	github.com/99designs/gqlgen v0.17.42
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2
